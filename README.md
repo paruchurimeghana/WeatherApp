@@ -1,8 +1,7 @@
-# WeatherApp
-A simple and responsive weather app that shows real-time weather data using a public API. Built with HTML, CSS, and JavaScript for clean UI and easy usability.
 # 🌦️ Weather App
 
-A simple and responsive weather app that displays real-time weather data using the OpenWeatherMap API. Built with HTML, CSS, and JavaScript.
+A simple and responsive weather app that shows real-time weather data using a public API. Built with HTML, CSS, and JavaScript for clean UI and easy usability.
+
 
 ## Features
 
@@ -17,9 +16,9 @@ A simple and responsive weather app that displays real-time weather data using t
 - CSS
 - JavaScript
   
-# 2.Open the index.html file in your browser.
+2.Open the index.html file in your browser.
 
-# 3.Enter a city name and click "Search" to get the weather data.
+3.Enter a city name and click "Search" to get the weather data.
 
 # License
 
